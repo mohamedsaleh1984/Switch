@@ -1,0 +1,31 @@
+﻿.ContainerOurHappyClient {
+    /*
+height: 500px;
+
+    */
+    background-color: #f2f1f1;
+}
+    .ContainerOurHappyClient h1 {
+        color: #828181;
+        text-transform: uppercase;
+        padding-top: 37px;
+        font-family: Verdana;
+        font-size: 26px;
+        font-weight: bold;
+    }
+
+    .ContainerOurHappyClient h2 {
+        color: #b7b3b3;
+        font-family: Verdana;
+        font-size: 20px;
+    }
+
+.GrayButton {
+    width: 177px;
+    height: 40px;
+    background-color: #dddcdc;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: rgba(0,0,0,.5) 3px 3px;
+    color: #a9a2a2;
+    border-style: none;
+}

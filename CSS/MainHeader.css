@@ -1,0 +1,68 @@
+﻿.ContainerMainHeader {
+    background: url("../Images/background.png") no-repeat fixed;
+    background-size: cover;
+    background-position: center;
+    height: 660px;
+}
+
+.links {
+    color: white;
+    font-family: Verdana;
+    font-size: 16px;
+    text-shadow: 3px 0px 2px #808080;
+    margin-left: 10px;
+}
+
+.ContainerMainHeader .art-is-eternal {
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    position:relative;
+    top: 270px;
+}
+.links:hover {
+    border-top: 5px solid #54d154;
+}
+
+   .btn-work-with-us {
+        width: 210px;
+        height: 50px;
+        position: relative;
+        top: 280px;
+        background-color: #54d154;
+        border-radius: 25px 25px 25px 25px;
+        text-transform: uppercase;
+        font-size: 20px;
+        color: #fff;
+        border-style: none;
+    }
+
+.btn-scroll-down {
+    width: 122px;
+    height: 24px;
+    position: relative;
+    top: 440px;
+    color: #111111;
+    background-color: rgba(255,255,255,.5);
+    border-radius: 20px 20px 20px 20px;
+    border-style: none;
+}
+
+.ContainerMainHeader .text-search-box {
+    width: 180px;
+    height: 28px;
+    background-color: rgba(255,255,255,.8);
+    border-radius: 20px 20px 20px 20px;
+    color: #fff;
+    text-indent:10px;
+    border-style: none;
+    color:#000;
+    margin-top:10px;
+    position:relative;
+    float:right;
+}
+.text-search-box .search-icon {
+    position: relative;
+    float: right;
+}

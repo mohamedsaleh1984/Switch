@@ -1,0 +1,19 @@
+﻿.Dark {
+    background-color: #222222;
+}
+    .Dark h1 {
+        color: black;
+        text-transform: uppercase;
+        font-family: Verdana;
+        font-size: 18px;
+        padding-top:10px;
+        font-weight:bold;
+    }
+
+    .Dark img {
+        margin-left:20px;
+    }
+.Black {
+    height: 33px;
+    background-color: #000;
+}
