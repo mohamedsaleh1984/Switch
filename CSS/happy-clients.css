@@ -1,27 +1,28 @@
 ﻿.ContainerOurHappyClient {
     background-color: #f2f1f1;
 }
-    .ContainerOurHappyClient h1 {
-        color: #828181;
-        text-transform: uppercase;
-        padding-top: 37px;
-        font-family: Verdana;
-        font-size: 26px;
-        font-weight: bold;
-    }
 
-    .ContainerOurHappyClient h2 {
-        color: #b7b3b3;
-        font-family: Verdana;
-        font-size: 20px;
-    }
+.ContainerOurHappyClient h1 {
+    color: #828181;
+    text-transform: uppercase;
+    padding-top: 37px;
+    font-family: Verdana;
+    font-size: 26px;
+    font-weight: bold;
+}
 
-.centered-text{
+.ContainerOurHappyClient h2 {
+    color: #b7b3b3;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+.centered-text {
     text-align: center;
 }
 
-.horizontal-black-bar{
-    width:40px;
-    size:10px;
-    color:black; 
+.horizontal-black-bar {
+    width: 40px;
+    size: 10px;
+    color: black;
 }

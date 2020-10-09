@@ -1,17 +1,18 @@
 ﻿.ContainerMeetTheTeam {
     background-color: #54d154
 }
-    .ContainerMeetTheTeam h1 {
-        color: #207b20;
-        text-transform:uppercase;
-        padding-top:37px;
-        font-family:Verdana;
-        font-size:26px;
-        font-weight:bold;
-    }
 
-    .ContainerMeetTheTeam h2 {
-        color: #2b9b2b;
-        font-family: Verdana;
-        font-size: 20px;
-    }
+.ContainerMeetTheTeam h1 {
+    color: #207b20;
+    text-transform: uppercase;
+    padding-top: 37px;
+    font-family: Verdana;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.ContainerMeetTheTeam h2 {
+    color: #2b9b2b;
+    font-family: Verdana;
+    font-size: 20px;
+}

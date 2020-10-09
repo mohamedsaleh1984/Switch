@@ -18,28 +18,30 @@
     font-weight: bold;
     font-size: 60px;
     text-align: center;
-    position:relative;
+    position: relative;
     top: 270px;
 }
+
 .links:hover {
     border-top: 5px solid #54d154;
 }
 
- 
+
 
 .ContainerMainHeader .text-search-box {
     width: 180px;
     height: 28px;
-    background-color: rgba(255,255,255,.8);
+    background-color: rgba(255, 255, 255, .8);
     border-radius: 20px 20px 20px 20px;
     color: #fff;
-    text-indent:10px;
+    text-indent: 10px;
     border-style: none;
-    color:#000;
-    margin-top:10px;
-    position:relative;
-    float:right;
+    color: #000;
+    margin-top: 10px;
+    position: relative;
+    float: right;
 }
+
 .text-search-box .search-icon {
     position: relative;
     float: right;

@@ -2,19 +2,22 @@
     /*   height: 340px;*/
     background-color: #ffffff;
 }
-    .ContainerTestmonials h1 {
-        color: #828181;
-        text-transform: uppercase;
-        padding-top: 37px;
-        font-family: Verdana;
-        font-size: 26px;
-        font-weight: bold;
-    }
-    .ContainerTestmonials h2 {
-        color: #b7b3b3;
-        font-family: Verdana;
-        font-size: 20px;
-    }
-    .ContainerTestmonials p {
-        color: #686868;
-    }
+
+.ContainerTestmonials h1 {
+    color: #828181;
+    text-transform: uppercase;
+    padding-top: 37px;
+    font-family: Verdana;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.ContainerTestmonials h2 {
+    color: #b7b3b3;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+.ContainerTestmonials p {
+    color: #686868;
+}
