@@ -16,3 +16,12 @@
         font-size: 20px;
     }
 
+.centered-text{
+    text-align: center;
+}
+
+.horizontal-black-bar{
+    width:40px;
+    size:10px;
+    color:black; 
+}
