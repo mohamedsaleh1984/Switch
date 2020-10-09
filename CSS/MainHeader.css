@@ -25,29 +25,7 @@
     border-top: 5px solid #54d154;
 }
 
-   .btn-work-with-us {
-        width: 210px;
-        height: 50px;
-        position: relative;
-        top: 280px;
-        background-color: #54d154;
-        border-radius: 25px 25px 25px 25px;
-        text-transform: uppercase;
-        font-size: 20px;
-        color: #fff;
-        border-style: none;
-    }
-
-.btn-scroll-down {
-    width: 122px;
-    height: 24px;
-    position: relative;
-    top: 440px;
-    color: #111111;
-    background-color: rgba(255,255,255,.5);
-    border-radius: 20px 20px 20px 20px;
-    border-style: none;
-}
+ 
 
 .ContainerMainHeader .text-search-box {
     width: 180px;

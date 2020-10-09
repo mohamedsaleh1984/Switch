@@ -13,7 +13,7 @@
     color: #ffffff;
 }
 
-.GreenButton {
+.btn-work-with-us {
     width: 177px;
     height: 40px;
     background-color: #54d154;
@@ -25,7 +25,7 @@
     border-style:none;
 }
 
-.GreenButton:hover {
+.btn-work-with-us:hover {
     background-color: #207b20;
 }
 
@@ -66,4 +66,17 @@
 
 .btn-Learn-more:hover{
     background-color: #308330;
+}
+
+
+.btn-scroll-down {
+width: 140px;
+height: 24px;
+position: relative;
+top: 440px;
+color: #111111;
+background-color: rgba(255,255,255,.5);
+border-radius: 20px 20px 20px 20px;
+border-style: none;
+box-shadow: rgba(0,0,0,.5) 3px 3px;
 }
