@@ -1,0 +1,46 @@
+﻿.ContainerWhatWeDo {
+    background-color:#ffffff;
+}
+    .ContainerWhatWeDo h1 {
+        color: #828181;
+        text-transform: uppercase;
+        padding-top: 37px;
+        font-family: Verdana;
+        font-size: 26px;
+        font-weight: bold;
+    }
+
+    .ContainerWhatWeDo h2 {
+        color: #d6d3d3;
+        font-family: Verdana;
+        font-size: 20px;
+    }
+    .ContainerThreeElment {
+        background-color: #ffffff;
+    }
+        .ContainerThreeElment .Element{
+    
+        }
+            .ContainerThreeElment .Element .shape {
+                width: 144px;
+                height: 140px;
+                background-color: #e1f3e1;
+                border-radius: 5px 5px 5px 5px;
+            }
+            .ContainerThreeElment .Element h2 {
+                color: #828181;
+                margin: 0px;
+                padding: 0px;
+                margin-top:10px;
+                font-family: Verdana;
+                font-size: 20px;
+            }
+            .ContainerThreeElment .Element p {
+                color: #828181;
+                margin: 0px;
+                padding: 0px;
+                margin-top: 10px;
+                font-family: Verdana;
+                font-size: 16px;
+                text-align:center;
+            }
