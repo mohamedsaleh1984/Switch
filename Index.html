@@ -12,8 +12,7 @@
     <link href="css/testmonials.css" rel="stylesheet" />
     <link href="css/happy-clients.css" rel="stylesheet" />
     <link href="css/meet-the-team.css" rel="stylesheet" />
-    <link href="css/Footer1.css" rel="stylesheet" />
-    <link href="css/Footer2.css" rel="stylesheet" />
+    <link href="css/footer-section.css" rel="stylesheet" />
     <link href="css/bootstrap/bootstrap.css" rel="stylesheet" />
     <link href="css/custom-buttons.css" rel="stylesheet" />
 
@@ -37,27 +36,37 @@
 
 <body>
     <div class="container-fluid ContainerMainHeader">
-        <div class="row" style="height:35px">
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <a class="links" href="#">Home</a>
-                <a class="links" href="#">What we do?</a>
-                <a class="links" href="#">Testimonial</a>
-                <a class="links" href="#">Contact Us</a>
+        <div class="nav_bar">
+            <div>
+                <ul class="nav">
+                    <li class="nav-item">
+                        <a class="links" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="links" href="#">What we do?</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="links" href="#">Testimonial</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="links" href="#">Contact Us</a>
+                    </li>
+                </ul>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <center style="font-family:'Adobe Garamond Pro';
-                        font-size:28px;font-style:italic;font-weight:bold;color:white">
-                    Switch
-                </center>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
+
+            <div>
                 <input type="search" class="form-control text-search-box" placeholder="Search..." />
-                <span class="fas fa-search" style="color:#000;
-                        position:absolute;
-                        float:right;
-                        right:25px;top:17px;"></span>
+                <span class="fas fa-search search-icon"></span>
             </div>
+
         </div>
+
+
+        <center>
+            <div class="switch">
+                Switch
+            </div>
+        </center>
 
         <!-- Label Buttons -->
         <div class="row">
@@ -70,11 +79,7 @@
                     <button type="button" class="btn-work-with-us">
                         work with us
                     </button>
-                    <center>
-                        <button type="button" class="btn-scroll-down">
-                            scroll down <i class="fas fa-arrow-down" style="color:#111111"></i>
-                        </button>
-                    </center>
+                    
 
                 </center>
 
@@ -82,7 +87,12 @@
             <div class="col-lg-2"></div>
         </div>
     </div>
-    <!--End of Main Header-->
+    <center>
+        <button type="button" class="btn-scroll-down">
+            scroll down <i class="fas fa-arrow-down" style="color:#111111"></i>
+        </button>
+    </center>
+
 
     <br>
     <div class="container-fluid ContainerWhatWeDo">
@@ -624,21 +634,21 @@
         <br />
     </div> <!-- LOGOS -->
 
-    <div class="container-fluid Black fill">
+    <div class="container-fluid black-bar fill">
         <center style="color:white">
             made with <i class="fas fa-heart"></i> by Krisna :)
+            <a href="https://validator.w3.org/check/referer">
+                <img src="Images/validate/html5_validator.png" alt="Validate" />
+            </a>
+            <a href="  https://jigsaw.w3.org/css-validator/">
+                <img src="Images/validate/w3c-css.png" alt="Validate" />
+            </a>
         </center>
-
-        <br>
-        <a href="https://validator.w3.org/check/referer">
-            <img src="Images/validate/html5_validator.png" alt="Validate" />
-        </a>
-        <a href="  https://jigsaw.w3.org/css-validator/">
-            <img src="Images/validate/w3c-css.png" alt="Validate" />
-        </a>
+        
 
     </div>
     <!--Made with Love-->
+
 
 </body>
 
