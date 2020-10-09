@@ -30,14 +30,22 @@
 }
 
 .btn-primary-green {
-            color: #fff;
-            background-color: #2b9b2b;
-            border-color: #54d154;
-        }
+    color: #fff;
+    background-color: #2b9b2b;
+    border-color: #54d154;
+}
 
-       .btn-primary-green:hover {
-                color: #fff;
-                background-color: #54d154;
-                border-color: #2b9b2b;
-            }
+.btn-primary-green:hover {
+    background-color: #54d154;
+    border-color: #2b9b2b;
+}
 
+.btn-view-more-work {
+    width: 185px;
+    height: 42px;
+    background-color: #2b9b2b;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: rgba(0,0,0,.5) 3px 3px;
+    color: #fff;
+    border-style: none;
+}
