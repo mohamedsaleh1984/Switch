@@ -74,10 +74,16 @@
     width: 140px;
     height: 24px;
     position: relative;
-    top: 440px;
+    top: 10px;
     color: #111111;
     background-color: rgba(255, 255, 255, .5);
     border-radius: 20px 20px 20px 20px;
     border-style: none;
     box-shadow: rgba(0, 0, 0, .5) 3px 3px;
+    background-color: azure;
+}
+
+.btn-scroll-down:hover{
+    color: #308330;
+    background-color: azure;
 }
