@@ -17,6 +17,15 @@
     margin-left: 10px;
 }
 
+body {
+    margin: 0px;
+    height: 100%;
+}
+
+.fill {
+    overflow: auto;
+}
+
 .ContainerMainHeader .art-is-eternal {
     color: white;
     font-weight: bold;
