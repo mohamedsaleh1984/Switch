@@ -21,16 +21,7 @@
         integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
     <link href="css/person.css" rel="stylesheet" />
-    <style>
-        body {
-            margin: 0px;
-            height: 100%;
-        }
-
-        .fill {
-            overflow: auto;
-        }
-    </style>
+    <script src="js/site.js" type="text/javascript"></script>
 
 </head>
 
@@ -91,7 +82,7 @@
         </div>
     </div>
     <center>
-        <button type="button" class="btn-scroll-down">
+        <button type="button" class="btn-scroll-down" id="btn-scroll-down" onclick="scrollDown();">
             scroll down <i class="fas fa-arrow-down" style="color:#111111"></i>
         </button>
     </center>
@@ -651,8 +642,12 @@
 
     </div>
     <!--Made with Love-->
-
-
+    <button id="btn_scroll_up" name="btn_scroll_up" title="Click Me" onclick="scrollUp();"
+        class="btn-scroll-up"
+    >
+    <i class="fas fa-arrow-up"></i>
+    </button>
+   
 </body>
 
 </html>
